@@ -1,7 +1,6 @@
 ### Hi there, I'm Tom and 16 years young 👋
 
 
-- 🔭 I’m currently working on my game **The Realistic Backrooms**
+- 🔭 I’m currently working on my game
 - 🌱 I’m currently learning C# and PHP
-- 🤔 I’m looking for help with my game **The Realistic Backrooms**
 - 📫 How to reach me? Discord: **eztxmmc**
