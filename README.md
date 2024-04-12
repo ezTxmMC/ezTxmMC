@@ -1,8 +1,9 @@
 # About me
 
 - 👋 I'm Tom and 16 years young
-- 🔭 I’m currently working on my game
-- 🌱 I’m currently learning Unreal Engine 5 and PHP
+- 🔭 I’m currently working on my own development studio
+- ⚙️ I’m currently working at a hosting company as frontend-developer
+- 🌱 I’m currently learning UE5, PHP, Go and Python
 - 📫 How to reach me? Discord: **eztxmmc**
 
 ![](https://komarev.com/ghpvc/?username=ezTxmMC&style=flat)
