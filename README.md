@@ -1,6 +1,6 @@
 # About me
 
-- 👋 I'm Tom and 16 years young
+- 👋 I'm Tom and 17 years young
 - 🔭 I’m currently working on my own development studio
 - ⚙️ I’m currently working at a hosting company as frontend-developer
 - 🌱 I’m currently learning UE5, PHP, Go and Python
