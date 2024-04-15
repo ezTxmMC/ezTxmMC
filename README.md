@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my own development studio
 - ⚙️ I’m currently working at a hosting company as frontend-developer
 - 🌱 I’m currently learning UE5, PHP, Go and Python
-- 📫 How to reach me? Discord: **eztxmmc**
+- 📫 How to reach me? Discord: [**eztxmmc**](https://discord.com/users/645244181756903426)
 
 ![](https://komarev.com/ghpvc/?username=ezTxmMC&style=flat)
 
