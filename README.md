@@ -1,10 +1,11 @@
-# About me
+# About Me
 
-- 👋 I'm Tom and 17 years young
-- 🔭 I’m currently working on my own development studio
-- ⚙️ I’m currently working at a hosting company as frontend-developer
-- 🌱 I’m currently learning UE5, PHP, Go and Python
-- 📫 How to reach me? Discord: [**eztxmmc**](https://discord.com/users/645244181756903426)
+- 👋 I'm Tom, a 17-year-old enthusiast.
+- ☁️ Currently, I'm developing a Minecraft cloud system.
+- 🔭 I'm in the process of establishing my own development studio.
+- ⚙️ I work as a frontend developer at a hosting company.
+- 🌱 I'm actively learning UE5, PHP, Go, and Python.
+- 📫 You can reach me on Discord: [**eztxmmc**](https://discord.com/users/645244181756903426).
 
 ![](https://komarev.com/ghpvc/?username=ezTxmMC&style=flat)
 
