@@ -18,4 +18,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23306afc.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/go-%2354beff.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23fd4333.svg?style=for-the-badge&logo=rust&logoColor=white)
