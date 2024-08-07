@@ -21,7 +21,7 @@ Active:
 Passive:
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
-- [Technifed](https://github.com/ezTxmMC/Technifed)
+- [Technified](https://github.com/ezTxmMC/Technified)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
 
 Archived:
