@@ -5,7 +5,7 @@
 
 - 👋 I am Tom, a 17-year-young programming enthusiast.
 - ☁️ Currently I am organizing myself and working on some minecraft add-ons.
-- 🌱 I am actively learning C++ and VueJS.
+- 🌱 I am actively learning Vue.js and C++.
 - 📫 You can reach me on Discord: [**eztxmmc**](https://discord.com/users/645244181756903426).
 
 ---
@@ -41,8 +41,8 @@ Archived:
 ![Rust](https://img.shields.io/badge/rust-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GO](https://img.shields.io/badge/go-%2354beff.svg?style=for-the-badge&logo=go&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-%2342D392?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2342D392?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
