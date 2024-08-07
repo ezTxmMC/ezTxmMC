@@ -11,13 +11,13 @@
 
 Active:
 
-- [ezLib](https://github.com/ezTxmMC/ezLib)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
 - [MoreDefaultArmor (Fabric)](https://github.com/ezTxmMC/MoreDefaultArmor)
 - [MoreDefaultArmor (Forge)](https://github.com/ezTxmMC/MoreDefaultArmor-Forge)
 
 Passive:
 
+- [ezLib](https://github.com/ezTxmMC/ezLib)
 - [Technifed](https://github.com/ezTxmMC/Technifed)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
 
