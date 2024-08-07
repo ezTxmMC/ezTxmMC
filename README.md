@@ -1,4 +1,4 @@
-## 🧑 About me
+### 🧑 About me
 
 - 👋 I am Tom, a 17-year-young programming enthusiast.
 - ☁️ Currently I am organizing myself and working on some minecraft add-ons.
@@ -7,7 +7,7 @@
 
 ---
 
-## 💻 Projects
+### 💻 Projects
 
 Active:
 
@@ -28,7 +28,7 @@ Archived:
 
 ---
 
-## 🧑‍💻 Knowledge
+### 🧑‍💻 Knowledge
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
