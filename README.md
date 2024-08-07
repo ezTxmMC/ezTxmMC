@@ -1,9 +1,32 @@
-# About Me
+## 🧑 About me
 
-- 👋 I'm Tom, a 17-year-old enthusiast.
-- ☁️ Currently, I'm developing and organizing my own minecraft network.
-- 🌱 I'm actively learning PHP and Rust.
+- 👋 I am Tom, a 17-year-young programming enthusiast.
+- ☁️ Currently I am organizing myself and working on some minecraft add-ons.
+- 🌱 I am actively learning C++ and VueJS.
 - 📫 You can reach me on Discord: [**eztxmmc**](https://discord.com/users/645244181756903426).
+
+---
+
+## 💻 Projects
+
+Active:
+
+- [ezLib](https://github.com/ezTxmMC/ezLib)
+- [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
+- [MoreDefaultArmor (Fabric)](https://github.com/ezTxmMC/MoreDefaultArmor)
+- [MoreDefaultArmor (Forge)](https://github.com/ezTxmMC/MoreDefaultArmor-Forge)
+
+Passive:
+
+- [Technifed](https://github.com/ezTxmMC/Technifed)
+- [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
+
+Archived:
+
+- [ColoredArmor](https://github.com/ezTxmMC/ColoredArmor)
+- [VeloSystem](https://github.com/ezTxmMC/VeloSystem)
+
+---
 
 ## 🧑‍💻 Knowledge
 
