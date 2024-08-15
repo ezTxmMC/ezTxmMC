@@ -15,7 +15,7 @@
 Active:
 
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
-- [MoreDefaultArmor (Fabric)](https://github.com/ezTxmMC/MoreDefaultArmor)
+- [MoreDefaultArmor (Fabric)](https://github.com/ezTxmMC/MoreDefaultArmor-Fabric)
 - [MoreDefaultArmor (Forge)](https://github.com/ezTxmMC/MoreDefaultArmor-Forge)
 
 Passive:
