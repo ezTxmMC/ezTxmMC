@@ -21,6 +21,7 @@ Passive:
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
 - [Technified](https://github.com/ezTxmMC/Technified)
+- [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
 
 Archived:
