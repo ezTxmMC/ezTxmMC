@@ -14,8 +14,8 @@
 
 Active:
 
+- [Feraura](https://feraura.de)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
-- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 Passive:
 
@@ -23,6 +23,7 @@ Passive:
 - [Technified](https://github.com/ezTxmMC/Technified)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
+- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 Archived:
 
