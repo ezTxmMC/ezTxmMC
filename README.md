@@ -20,10 +20,12 @@ Active:
 Passive:
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
+- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
+
+Paused:
 - [Technified](https://github.com/ezTxmMC/Technified)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
-- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 Archived:
 
