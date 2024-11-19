@@ -20,8 +20,8 @@ Active:
 
 Passive:
 
-- [CitySMP](https://github.com/CitySMP)
 - [ezLib](https://github.com/ezTxmMC/ezLib)
+- [CitySMP](https://github.com/CitySMP)
 - [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 Paused:
