@@ -16,7 +16,7 @@ Active:
 
 - [Feraura](https://feraura.de)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
-- [JS-Web-Util](https://github.com/ezTxmMC/JS-Web-Util)
+- [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
 
 Passive:
 
