@@ -5,7 +5,7 @@
 
 - 👋 I am Tom, a 17-year-young programming enthusiast.
 - ☁️ Currently I am organizing myself and working on some minecraft add-ons.
-- 🌱 I am actively learning Vue.js, C++ and Python.
+- 🌱 I am actively learning Vue.js and Python.
 - 📫 You can reach me on Discord: [**ezArmy**](https://eztxm.de/dc).
 
 ---
