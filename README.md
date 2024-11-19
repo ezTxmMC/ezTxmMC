@@ -20,6 +20,7 @@ Active:
 
 Passive:
 
+- [CitySMP](https://github.com/CitySMP)
 - [ezLib](https://github.com/ezTxmMC/ezLib)
 - [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
