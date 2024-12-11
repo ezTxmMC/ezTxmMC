@@ -15,25 +15,25 @@
 Active:
 
 - [Feraura](https://feraura.de)
-- [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
-- [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
 - [SmoothCloud](https://smthcld.net)
 
 Passive:
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
-- [CitySMP](https://github.com/CitySMP)
-- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
+- [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
 
 Paused:
+- [CitySMP](https://github.com/CitySMP)
 - [Technified](https://github.com/ezTxmMC/Technified)
+- [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
+- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 Archived:
 
-- [ColoredArmor](https://github.com/ezTxmMC/ColoredArmor)
 - [VeloSystem](https://github.com/ezTxmMC/VeloSystem)
+- [ColoredArmor](https://github.com/ezTxmMC/ColoredArmor)
 
 ---
 
