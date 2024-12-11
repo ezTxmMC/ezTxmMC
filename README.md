@@ -15,9 +15,9 @@
 Active:
 
 - [Feraura](https://feraura.de)
-- [SmoothCloud](https://smthcld.net)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
 - [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
+- [SmoothCloud](https://smthcld.net)
 
 Passive:
 
