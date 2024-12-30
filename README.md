@@ -47,8 +47,10 @@
   <summary>Active projects</summary>
 
 - [Feraura](https://discord.feraura.de)
+- [2weeksmc](https://github.com/2weeksmc)
+- [Astronical](https://github.com/Nexoscript/Astronical)
 - [SmoothCloud](https://smthcld.net)
-- [servermanager](https://github.com/ezTxmMC/servermanager)
+- [servermanager](https://github.com/Nexoscript/servermanager)
 </details>
   
 <details>
