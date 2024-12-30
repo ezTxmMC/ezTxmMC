@@ -1,6 +1,3 @@
-
----
-
 ### 🧑 About me
 
 - 👋 I am Tom, a 17-year-young programming enthusiast from germany.
@@ -85,5 +82,3 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezTxmMC&style=for-the-badge)
-
----
