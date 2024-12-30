@@ -51,6 +51,7 @@
 
 - [Feraura](https://discord.feraura.de)
 - [SmoothCloud](https://smthcld.net)
+- [servermanager](https://github.com/ezTxmMC/servermanager)
 </details>
   
 <details>
