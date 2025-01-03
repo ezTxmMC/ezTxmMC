@@ -56,8 +56,8 @@
   <summary>Passive projects</summary>
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
-- [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
 - [Astronical](https://github.com/Nexoscript/Astronical)
+- [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
 
 </details>
   
