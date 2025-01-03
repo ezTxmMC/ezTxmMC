@@ -48,7 +48,6 @@
 
 - [Feraura](https://discord.feraura.de)
 - [2weeksmc](https://github.com/2weeksmc)
-- [Astronical](https://github.com/Nexoscript/Astronical)
 - [SmoothCloud](https://smthcld.net)
 - [servermanager](https://github.com/Nexoscript/servermanager)
 </details>
@@ -58,6 +57,7 @@
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
+- [Astronical](https://github.com/Nexoscript/Astronical)
 
 </details>
   
