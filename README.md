@@ -36,8 +36,8 @@
 ![Htmx](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-353535?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-353535?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
