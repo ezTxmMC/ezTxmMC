@@ -33,6 +33,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GO](https://img.shields.io/badge/go-%2354beff.svg?style=for-the-badge&logo=go&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3862AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white)
 ![Htmx](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
