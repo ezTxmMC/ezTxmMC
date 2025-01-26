@@ -77,10 +77,8 @@
 <details>
   <summary>Paused projects</summary>
   
-- [CitySMP](https://github.com/CitySMP)
 - [Astronical](https://github.com/Nexoscript/Astronical)
 - [servermanager](https://github.com/Nexoscript/servermanager)
-- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
   
 </details>
   
@@ -92,6 +90,7 @@
 - [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
 - [ColoredArmor](https://github.com/ezTxmMC/ColoredArmor)
 - [BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)
+- [MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)
 
 </details>
 
