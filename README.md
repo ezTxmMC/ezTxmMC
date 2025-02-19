@@ -57,8 +57,9 @@
 <details>
   <summary>Active projects</summary>
 
-- [Feraura](https://feraura.de)
+- [ezLib](https://github.com/ezTxmMC/ezLib)
 - [2weeksmc](https://github.com/2weeksmc)
+- [SmoothCloud](https://smthcld.net)
 - [nexoscript-lang](https://github.com/Nexoscript/nexoscript)
 
 </details>
@@ -66,19 +67,17 @@
 <details>
   <summary>Passive projects</summary>
 
-- [ezLib](https://github.com/ezTxmMC/ezLib)
-- [nexodb](https://github.com/Nexoscript/nexodb)
-- [nexo-net](https://github.com/Nexoscript/nexo-net)
-- [nexorepo](https://github.com/Nexoscript/nexorepo)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
-- [SmoothCloud](https://smthcld.net)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
+- [DockerServerManager](https://github.com/Nexoscript/dockerservermanager)
 
 </details>
   
 <details>
   <summary>Paused projects</summary>
   
+- [nexos](https://github.com/Nexoscript/nexos)
+- [nexonet](https://github.com/Nexoscript/nexonet)
 - [Astronical](https://github.com/Nexoscript/Astronical)
 - [servermanager](https://github.com/Nexoscript/servermanager)
   
@@ -87,6 +86,7 @@
 <details>
   <summary>Archived projects</summary>
   
+- [Feraura](https://feraura.de)
 - [Technified](https://github.com/ezTxmMC/Technified)
 - [VeloSystem](https://github.com/ezTxmMC/VeloSystem)
 - [JS-Web-Utils](https://github.com/ezTxmMC/JS-Web-Utils)
