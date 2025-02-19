@@ -2,7 +2,7 @@
 
 - 👋 I am Tom, a 17-year-young programming enthusiast from germany.
 - ☁️ I am currently developing many things, including a [minecraft cloud system](https://smoothcloud.eu) and parallel a [minecraft server network](https://2weeksmc.com).
-- 🌱 I am actively learning [VueJS](https://vuejs.org/) in combination with [V](https://vlang.io), [Rust](https://rust-lang.org/) and [Python](https://www.python.org/).
+- 🌱 I am actively learning [VueJS](https://vuejs.org), [Express](https://expressjs.com), [V](https://vlang.io), [Rust](https://rust-lang.org/), [GO](https://go.dev) and [Python](https://python.org).
 - 📫 You can reach me on Discord: [**ezArmy**](https://eztxm.de/dc).
 
 ---
