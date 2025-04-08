@@ -35,6 +35,7 @@
 ![V](https://img.shields.io/badge/V-276DC3?style=for-the-badge&logo=v&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GO](https://img.shields.io/badge/go-%2354beff.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white)
