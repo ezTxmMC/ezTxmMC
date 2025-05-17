@@ -59,18 +59,17 @@
   <summary>Active projects</summary>
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
-- [nexonet](https://github.com/Nexoscript/nexonet)
 - [2weeksmc](https://github.com/2weeksmc)
-- [nexonet-go](https://github.com/Nexoscript/nexonet-go)
-- [SmoothCloud](https://smthcld.net)
 
 </details>
   
 <details>
   <summary>Passive projects</summary>
 
-- [DerStreamplan](https://github.com/DerStreamplan)
+- [nexonet](https://github.com/Nexoscript/nexonet)
+- [nexonet-go](https://github.com/Nexoscript/nexonet-go)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
+- [SmoothCloud](https://smthcld.net)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [nexoscript-lang](https://github.com/Nexoscript/nexoscript)
 - [DockerServerManager](https://github.com/Nexoscript/dockerservermanager)
@@ -82,6 +81,7 @@
   
 - [nexos](https://github.com/Nexoscript/nexos)
 - [Astronical](https://github.com/Nexoscript/Astronical)
+- [DerStreamplan](https://github.com/DerStreamplan)
 - [servermanager](https://github.com/Nexoscript/servermanager)
   
 </details>
