@@ -96,9 +96,9 @@
 
 - [ezLib](https://github.com/ezTxmMC/ezLib)
 - [nexonet](https://github.com/Nexoscript/nexonet)
-- [nexonet-go](https://github.com/Nexoscript/nexonet-go)
-- [nexoscript](https://github.com/Nexoscript/nexoscript)
 - [LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)
+- [nexoscript](https://github.com/Nexoscript/nexoscript)
+- [nexonet-go](https://github.com/Nexoscript/nexonet-go)
 - [SmoothCloud](https://smthcld.net)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [Kernex Hosting](https://github.com/KernexHost)
