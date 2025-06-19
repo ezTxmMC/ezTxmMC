@@ -102,6 +102,7 @@
 - [SmoothCloud](https://smthcld.net)
 - [RustnessCloud](https://github.com/ezTxmMC/RustnessCloud)
 - [Kernex Hosting](https://github.com/KernexHost)
+- [DimensionSpawn](https://github.com/ezTxmMC/DimensionSpawn)
 
 </details>
   
