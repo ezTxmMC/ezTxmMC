@@ -67,7 +67,7 @@
 ## 🚀 My Projects
 
 ### **🔥 Active Projects**
-- **[Kernex Hosting](https://github.com/KernexHost)** - Hosting Platform
+- **[Kernex Hosting](https://github.com/KernexHosting)** - Hosting Platform
 - **[LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)** - The LuckPerms Tab- and Chat-Addon
 - **[DimensionSpawn](https://github.com/ezTxmMC/DimensionSpawn)** - Dimension Spawn & Respawn Mod
 - **[ezLib](https://github.com/ezTxmMC/ezLib)** - Java Utility Library
