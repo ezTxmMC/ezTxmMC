@@ -81,8 +81,8 @@
 - **[MoreDefaultArmor](https://github.com/ezTxmMC/MoreDefaultArmor)** - Vanilla Minecraft Materials Armor Mod
 
 ### **📦 Archived Projects**
-- **[Lalura](https://lalura.net)** - Minecraft Minigames Server
-- **[Feraura](https://feraura.de)** - Minecraft Minigames Server
+- **[Lalura](https://github.com/LaluraNetzwerk)** - Minecraft Minigames Server
+- **[Feraura](https://github.com/FerauraNetzwerk)** - Minecraft Minigames Server
 - **[BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)** - Lib for Better Spigot Usage
 - **[VeloSystem](https://github.com/ezTxmMC/VeloSystem)** - Proxy Management
 
