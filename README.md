@@ -70,6 +70,8 @@
 - **[Kernex Hosting](https://github.com/KernexHosting)** - Hosting Platform
 - **[LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)** - The LuckPerms Tab- and Chat-Addon
 - **[DimensionSpawn](https://github.com/ezTxmMC/DimensionSpawn)** - Dimension Spawn & Respawn Mod
+- **[Tom's Craftable Items](https://github.com/ezTxmMC/Toms-Craftable-Items)** - Datapack adding recipes for uncraftable items
+
 - **[ezLib](https://github.com/ezTxmMC/ezLib)** - Java Utility Library
 - **[nexonet-java](https://github.com/Nexoscript/nexonet-java)** - Java Networking Library
 - **[nexonet-go](https://github.com/Nexoscript/nexonet-go)** - GO Networking Library
@@ -84,7 +86,6 @@
 - **[Lalura](https://github.com/LaluraNetzwerk)** - Minecraft Minigames Server
 - **[Feraura](https://github.com/FerauraNetzwerk)** - Minecraft Minigames Server
 - **[BetterSpigotLib](https://github.com/ezTxmMC/BetterSpigotLib)** - Lib for Better Spigot Usage
-- **[VeloSystem](https://github.com/ezTxmMC/VeloSystem)** - Proxy Management
 
 ---
 
