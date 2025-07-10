@@ -71,7 +71,6 @@
 - **[LuckPrefix](https://github.com/ezTxmMC/LuckPrefix)** - The LuckPerms Tab- and Chat-Addon
 - **[DimensionSpawn](https://github.com/ezTxmMC/DimensionSpawn)** - Dimension Spawn & Respawn Mod
 - **[Tom's Craftable Items](https://github.com/ezTxmMC/Toms-Craftable-Items)** - Datapack adding recipes for uncraftable items
-
 - **[ezLib](https://github.com/ezTxmMC/ezLib)** - Java Utility Library
 - **[nexonet-java](https://github.com/Nexoscript/nexonet-java)** - Java Networking Library
 - **[nexonet-go](https://github.com/Nexoscript/nexonet-go)** - GO Networking Library
