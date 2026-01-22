@@ -8,4 +8,5 @@ Building applications for web, mobile and desktop. Passionate about fullstack an
   - Backend: Java, Go, JavaScript, TypeScript
   - Frontend: React, Vue, Astro, JS(X)/TS(X), Tailwind CSS
   - Server: Debian, Proxmox, Docker, PostgreSQL, OPNsense
+  - Tools: Intellij IDEA, Goland, DataGrip, VSCode, Git
   - Platforms: Windows, macOS, Android
