@@ -40,5 +40,6 @@ Building applications for **web, mobile & desktop**.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Garuda Linux](https://custom-icon-badges.demolab.com/badge/Garuda%20Linux-b72ce7?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
