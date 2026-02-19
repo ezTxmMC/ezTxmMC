@@ -30,6 +30,7 @@ Building applications for **web, mobile & desktop**.
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-C0765A?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94A38?logo=fortinet&logoColor=white)
 
