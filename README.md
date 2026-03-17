@@ -14,6 +14,7 @@ Building applications for **web, mobile & desktop**.
 ### ☁️ Focused projects
 [![Kernex Hosting](https://img.shields.io/badge/Kernex--Hosting-021830?logo=databricks&logoColor=white)](https://kernex-hosting.com)
 [![LuckPrefix](https://img.shields.io/badge/LuckPrefix-181717?logo=github&logoColor=white)](https://github.com/ezTxmMC/LuckPrefix)
+[![KryoCloud](https://img.shields.io/badge/KryoCloud-181717?logo=github&logoColor=white)](https://github.com/KryoCloud)
 
 ### 🛠️ Tech Stack
 
