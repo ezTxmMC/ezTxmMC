@@ -12,9 +12,10 @@ Building applications for **web, mobile & desktop**.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ### ☁️ Focused projects
-[![Kernex Hosting](https://img.shields.io/badge/Kernex--Hosting-021830?logo=databricks&logoColor=white)](https://kernex-hosting.com)
+[![BlueNet Hosting](https://img.shields.io/badge/BlueNet--Hosting-021830?logo=databricks&logoColor=white)](https://bluenet-hosting.com)
 [![LuckPrefix](https://img.shields.io/badge/LuckPrefix-181717?logo=github&logoColor=white)](https://github.com/ezTxmMC/LuckPrefix)
-[![KryoCloud](https://img.shields.io/badge/KryoCloud-181717?logo=github&logoColor=white)](https://github.com/KryoCloud)
+[![Novus](https://img.shields.io/badge/KryoCloud-181717?logo=github&logoColor=white)](https://github.com/ezTxmMC/novus)
+[![VoltLauncher](https://img.shields.io/badge/KryoCloud-181717?logo=github&logoColor=white)](https://volt-launcher.app)
 
 ### 🛠️ Tech Stack
 
@@ -22,6 +23,7 @@ Building applications for **web, mobile & desktop**.
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Vue](https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=white)
