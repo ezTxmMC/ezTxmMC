@@ -25,7 +25,6 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 | :--- | :--- | :--- |
 | **BlueNet-Hosting** | Professional hosting & infrastructure services | [Visit →](https://bluenet-hosting.com) |
 | **VoltLauncher** | Modern Minecraft launcher application | [Visit →](https://volt-launcher.app) |
-| **LuckPrefix** | Prefix management plugin for Minecraft | [Repository →](https://github.com/ezTxmMC/LuckPrefix) |
 | **Novus** | Modern programming language with simple syntax | [Repository →](https://github.com/ezTxmMC/novus) |
 
 ---
