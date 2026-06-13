@@ -45,7 +45,7 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-business@eztxm.de-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:business@eztxm.de)
+[![Email](https://img.shields.io/badge/Email-contact@eztxm.de-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@eztxm.de)
 [![Discord](https://img.shields.io/badge/Discord-eztxmmc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/645244181756903426)
 
 For business inquiries, collaborations, or project discussions, feel free to reach out.
