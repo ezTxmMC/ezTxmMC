@@ -19,6 +19,13 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 
 ---
 
+## 🚀 Looking for my next big project
+I'm currently on the lookout for my next big project — something ambitious worth building from the ground up. If you've got an idea, a startup, or a vision that needs a technical co-founder, let's talk.
+
+**Looking for:** a co-founder / partner-in-crime to build this with — someone who's just as invested in seeing it through.
+
+---
+
 ## Featured Projects
 
 | Project | Description | Link |
