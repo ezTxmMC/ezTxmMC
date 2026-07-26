@@ -26,16 +26,6 @@ I'm currently on the lookout for my next big project — something ambitious wor
 
 ---
 
-## Featured Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **BlueNet-Hosting** | Professional hosting & infrastructure services | [Visit →](https://bluenet-hosting.com) |
-| **VoltLauncher** | Modern Minecraft launcher application | [Visit →](https://volt-launcher.app) |
-| **Novus** | Modern programming language with simple syntax | [Repository →](https://github.com/ezTxmMC/novus) |
-
----
-
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
