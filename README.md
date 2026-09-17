@@ -9,7 +9,7 @@
 
 ---
 
-## About Me
+### About Me
 
 I design and build scalable applications across **web, mobile, and desktop** platforms, with a strong focus on clean architecture and reliable infrastructure. My work spans from full-stack product development to self-hosted server environments and network engineering.
 
@@ -19,7 +19,7 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -33,7 +33,7 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 
 ---
 
-## Contact
+### Contact
 
 [![Email](https://img.shields.io/badge/Email-contact@eztxm.de-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@eztxm.de)
 [![Discord](https://img.shields.io/badge/Discord-eztxmmc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/645244181756903426)
