@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Fullstack_&_Infrastructure-0A66C2?style=flat-square)
 ![Age](https://img.shields.io/badge/Age-19-2196F3?style=flat-square)
 ![Location](https://img.shields.io/badge/Based_in-Germany-000000?style=flat-square)
-![Status](https://img.shields.io/badge/Open_to-Collaboration-4CAF50?style=flat-square)
+![Status](https://img.shields.io/badge/Busy-FFA444?style=flat-square)
 
 ---
 
@@ -16,13 +16,6 @@ I design and build scalable applications across **web, mobile, and desktop** pla
 - 🎯 **Focus:** Fullstack Development · Cloud Infrastructure · DevOps
 - 🌱 **Currently Learning:** Dart & Flutter for cross-platform applications
 - 💼 **Open to:** Professional collaborations and open-source contributions
-
----
-
-## 🚀 Looking for my next big project
-I'm currently on the lookout for my next big project — something ambitious worth building from the ground up. If you've got an idea, a startup, or a vision that needs a technical co-founder, let's talk.
-
-**Looking for:** a co-founder / partner-in-crime to build this with — someone who's just as invested in seeing it through.
 
 ---
 
