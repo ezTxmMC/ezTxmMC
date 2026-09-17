@@ -14,8 +14,7 @@
 I design and build scalable applications across **web, mobile, and desktop** platforms, with a strong focus on clean architecture and reliable infrastructure. My work spans from full-stack product development to self-hosted server environments and network engineering.
 
 - 🎯 **Focus:** Fullstack Development · Cloud Infrastructure · DevOps
-- 🌱 **Currently Learning:** Dart & Flutter for cross-platform applications
-- 💼 **Open to:** Professional collaborations and open-source contributions
+- 🌱 **Currently Learning:** C++ with Vulkan
 
 ---
 
