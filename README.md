@@ -14,7 +14,7 @@
 I design and build scalable applications across **web, mobile, and desktop** platforms, with a strong focus on clean architecture and reliable infrastructure. My work spans from full-stack product development to self-hosted server environments and network engineering.
 
 - 🎯 **Focus:** Fullstack Development · Cloud Infrastructure · DevOps
-- 🌱 **Currently Learning:** C++ with Vulkan
+- 🌱 **Currently Learning:** C++ with Vulkan, Fyne (Go dep) + FFmpeg, AI Engineering
 
 ---
 
